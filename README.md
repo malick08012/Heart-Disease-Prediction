@@ -37,11 +37,11 @@ Top Influential Features:
 
 EDA Insights:
 
-Patients with typical angina or normal thalassemia had lower risk.
+1. Patients with typical angina or normal thalassemia had lower risk.
 
-Higher oldpeak values were linked to heart disease.
+2. Higher oldpeak values were linked to heart disease.
 
-Distributions and boxplots helped reveal patterns and outliers.
+3. Distributions and boxplots helped reveal patterns and outliers.
 
 
 
