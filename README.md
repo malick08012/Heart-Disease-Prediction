@@ -7,7 +7,7 @@ To build a machine learning model that predicts whether a person is at risk of h
 
 📂 Dataset Used:
 
-Dataset: [Heart Disease UCI Dataset](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)  
+Dataset: [Heart Disease UCI Dataset](https://www.kaggle.com/datasets/ketangangal/heart-disease-dataset-uci)
 
 The dataset contains 14 attributes per patient, such as age, cholesterol, chest pain type, ECG results, and more.
 
