@@ -7,7 +7,7 @@ To build a machine learning model that predicts whether a person is at risk of h
 
 📂 Dataset Used:
 
-Dataset: Heart Disease UCI Dataset
+Dataset: [Heart Disease UCI Dataset](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)  
 
 The dataset contains 14 attributes per patient, such as age, cholesterol, chest pain type, ECG results, and more.
 
@@ -42,6 +42,13 @@ EDA Insights:
 2. Higher oldpeak values were linked to heart disease.
 
 3. Distributions and boxplots helped reveal patterns and outliers.
+
+🛠️ Tools Used:
+
+1. Python
+2. Pandas, NumPy
+3. Scikit-learn
+4. Matplotlib, Seaborn
 
 
 
